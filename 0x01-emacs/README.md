@@ -1,0 +1,1 @@
+The command that opens a file within emacs is "C-x C-f"
