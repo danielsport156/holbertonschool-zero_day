@@ -1,3 +1,3 @@
 # Repository info
 
-https://github.com/danielsport156/holbertonschool-zero_day
+In this project I had to start up my "VM",but before that I had to make sure that ubuntu and vagrant were installed, so that after I gave my "VM" a start up, within it I could create a directory called "holbertonschool-zero_day". Inside this directory I had to create a file called "README.md" so that within it I could explain the project, then save it. Onced it was saved I had to upload the file to the "Github repository".
